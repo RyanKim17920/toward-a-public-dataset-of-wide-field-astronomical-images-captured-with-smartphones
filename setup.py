@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="{{REPO_NAME}}",
+    name="toward-a-public-dataset-of-wide-field-astronomical-images-captured-with-smartphones",
     version="0.1.0",
-    author="{{GITHUB_USERNAME}}",
-    description="Implementation of {{PAPER_TITLE}}",
-    url="https://github.com/{{GITHUB_USERNAME}}/{{REPO_NAME}}",
+    author="RyanKim17920",
+    description="Implementation of Toward a Public Dataset of Wide-Field Astronomical Images Captured with Smartphones",
+    url="https://github.com/RyanKim17920/toward-a-public-dataset-of-wide-field-astronomical-images-captured-with-smartphones",
     packages=find_packages(),
     python_requires=">=3.8",
 )
